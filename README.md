@@ -1,0 +1,2 @@
+# Sayi-Olusturma
+Sayı Olusturma
